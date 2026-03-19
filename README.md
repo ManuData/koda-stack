@@ -84,8 +84,5 @@ AI Creative Director — cinema-quality AI workflows for creators.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@timkoda__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/timkoda_)
 [![TikTok](https://img.shields.io/badge/TikTok-@timkoda__-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@timkoda_)
-[![YouTube](https://img.shields.io/badge/YouTube-@timkoda-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@timkoda)
-[![Twitter](https://img.shields.io/badge/X-@timkoda__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/timkoda_)
-[![Website](https://img.shields.io/badge/Website-timkoda.com-6A23F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://timkoda.com)
 
 Inspired by [GSTACK](https://github.com/garrytan/gstack) by Garry Tan.
