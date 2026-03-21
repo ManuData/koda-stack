@@ -13,7 +13,8 @@ A validated script or concept with enough context to define visuals.
 ## Process
 
 1. Read the user's `CLAUDE.md` for visual identity (colors, style, lighting preferences)
-2. Analyze the script for visual cues — key words, emotions, environments
+2. Read `VISUAL_DNA.md` for synthesized visual patterns extracted from brand references
+3. Analyze the script for visual cues — key words, emotions, environments
 3. Define a complete visual direction that serves the narrative
 
 ## Output
@@ -35,7 +36,7 @@ Do NOT: [specific things to avoid for this piece]
 
 ## Rules
 
-- Always check `CLAUDE.md` for brand visual identity
+- Always check `CLAUDE.md` and `VISUAL_DNA.md` for brand visual identity
 - The visual direction must serve the script — not the other way around
 - Be specific: "warm golden light from camera left at 45 degrees" not "warm lighting"
 - Always include references the user can actually find (photographer, film, campaign)

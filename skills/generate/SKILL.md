@@ -13,7 +13,8 @@ A shot deck (from `/storyboard`) with visual descriptions for each shot, plus ar
 ## Process
 
 1. Read the user's `CLAUDE.md` for preferred tools and visual style
-2. Read the art direction for palette, mood, and lighting specs
+2. Read `VISUAL_DNA.md` for brand-specific visual grammar to embed in every prompt
+3. Read the art direction for palette, mood, and lighting specs
 3. For each AI shot in the deck, write an optimized prompt
 4. Generate images via the configured API (fal.ai, Midjourney, etc.)
 5. Save outputs to the project folder with shot numbers as filenames
@@ -35,7 +36,7 @@ Output: [file path]
 
 ## Rules
 
-- Always check `CLAUDE.md` for preferred image generation tools and API keys
+- Always check `CLAUDE.md` and `VISUAL_DNA.md` for preferred tools and visual style rules
 - Default aspect ratio: 9:16 (1080x1920) unless specified otherwise
 - Write prompts that are specific and technical — not vague or poetic
 - Include lighting, camera angle, lens, and composition in every prompt

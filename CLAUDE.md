@@ -2,6 +2,7 @@
 
 > This file is your creative fingerprint. Every CSTACK skill reads it before creating anything.
 > Fill in each section with your actual brand details. The more specific, the better the output.
+> For detailed visual grammar, see [VISUAL_DNA.md](./VISUAL_DNA.md) and reference images in `assets/moodboard/`.
 
 ## Voice
 
@@ -12,11 +13,18 @@
 
 ## Visual Identity
 
-- **Primary colors**: [e.g., #FF2D8A, #FFF466, #1B0280]
+- **Brand Values**: [Bold, Companion, Optimistic, Playful, Enabler, Young, Sophisticated, Cheerful]
+- **Brand Purpose**: ["Connecting experiences" We facilitate connections that enrich every experience, enabling travelers to enjoy and share every moment without limits and being really present in the climax of the trip / adventure.]
+- **Primary colors**: [ #211F54, #7B2FD8, #F5E264]
+- **Secondary colors**: [#0D0B1E, #F5F4FF]
+- **Tertiary colors**: [#FFB067 (Golden Orange), #FFBFC0 (Flamingo Pink), #8DC8F5 (Vibrant Sky Blue), #C5AAFF (Lavender Mist)]
+- **Gradients**: [Sunset: 135deg #211F54 → #7B2FD8 → #E8536A | Sunrise warm: 135deg #FFB067 → #FFF3CC → #FFBFC0 | Sunrise cool: 135deg #FFBFC0 → #DDB3E8 → #C5AAFF]
+
 - **Style**: [e.g., editorial, bright, human-centric, magazine quality]
-- **Lighting**: [e.g., golden hour, studio Rembrandt, natural window light]
+- **Lighting**: [golden hour, vibran sky blue, flamingo pink, golden orange, sunrise yellow, nebula purple,lanvender minst. ]
 - **Composition**: [e.g., rule of thirds, shallow DOF, negative space]
-- **Typography**: [e.g., bold sans-serif overlays, white + red accent]
+- **Typography**: [Rethink Sans — bold weight for headlines, regular for body, white on dark backgrounds, yellow accent for emphasis]
+
 
 ## Content Format
 

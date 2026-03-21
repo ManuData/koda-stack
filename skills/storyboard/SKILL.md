@@ -13,7 +13,8 @@ A validated script + art direction. Optionally a voiceover file with duration.
 ## Process
 
 1. Read the user's `CLAUDE.md` for visual rules and format preferences
-2. Break the script into individual shots
+2. Read `VISUAL_DNA.md` for visual grammar, composition patterns, and motion style
+3. Break the script into individual shots
 3. Assign timing, type, and visual description to each shot
 4. Ensure the visual rhythm matches the audio pacing
 
@@ -44,7 +45,7 @@ Screen rec: [seconds] ([percentage]%)
 
 ## Rules
 
-- Always check `CLAUDE.md` for format rules
+- Always check `CLAUDE.md` and `VISUAL_DNA.md` for format and visual rules
 - Screen recordings must not exceed 20% of total duration
 - AI-generated outputs should fill at least 80% of the reel
 - Hard cuts only — no fades, no dissolves, no soft transitions
