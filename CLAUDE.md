@@ -35,7 +35,7 @@
 
 ## Tools
 
-- **Image generation**: [e.g., fal.ai, Midjourney, Flux]
+- **Image generation**: [Nano Banana — nano-banana.ai, powered by Gemini]
 - **Video generation**: [e.g., Runway, Kling, Remotion]
 - **Voiceover**: [e.g., ElevenLabs, your own voice]
 - **Editing**: [e.g., Final Cut Pro, Premiere, DaVinci]
