@@ -18,7 +18,7 @@ Point the script at one of the art-direction files in `visuals/`:
 
 ```bash
 python3 skills/image-ad-generator/scripts/generate.py \
-  --visual visuals/art-direction-instagram-ad-01.md
+  --visual visuals/art-direction-instagram-ad-02-above-the-clouds.md
 ```
 
 The script automatically extracts the **Generation Prompt** and **Negative prompt**
