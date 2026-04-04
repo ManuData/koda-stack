@@ -19,12 +19,22 @@ import json
 import re
 import argparse
 from pathlib import Path
+
+
+# Load environment variables from .env if present
+from dotenv import load_dotenv          # type: ignore[import]
+load_dotenv(Path(__file__).parent.parent.parent.parent / ".env")
+
 from google import genai               # type: ignore[import]
 from google.genai import types         # type: ignore[import]
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-API_KEY = os.environ["GEMINI_API_KEY"]
+API_KEY = os.environ.get("GEMINI_API_KEY")
+if not API_KEY:
+    print("Error: GEMINI_API_KEY is not set. Please set it in your environment or the root .env file.", file=sys.stderr)
+    sys.exit(1)
+
 MODEL   = "imagen-4.0-generate-001"
 
 DEFAULT_STYLE = (

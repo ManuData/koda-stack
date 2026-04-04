@@ -6,7 +6,7 @@
 
 ## Voice
 
-- **Tone**: [e.g., bold and direct, casual but knowledgeable, intimate and personal]
+- **Tone**: [e.g., bold and direct, casual but knowledgeable, intimate and personal]1
 - **Language**: [e.g., English, French, bilingual]
 - **Signature phrases**: [e.g., words or expressions you always use]
 - **Never say**: [e.g., words or phrases that don't fit your brand]
