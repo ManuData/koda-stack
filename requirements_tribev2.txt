@@ -1,0 +1,14 @@
+# TribeV2 brain impact analysis dependencies
+# Install with: pip install -r requirements_tribev2.txt
+#
+# NOTE: tribev2 requires Python 3.11+ and a GPU for fast inference.
+# CPU inference works but is slower (~5–10 min for a 30s video).
+
+# Core model
+tribev2[plotting]       # includes PyTorch, HuggingFace, PyVista, Nilearn
+
+# Visualization & data
+matplotlib>=3.8
+nilearn>=0.10
+pandas>=2.0
+numpy>=1.26
